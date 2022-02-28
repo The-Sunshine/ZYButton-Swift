@@ -14,6 +14,7 @@
 		22594106278424F900245BAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22594105278424F900245BAC /* Assets.xcassets */; };
 		22594109278424F900245BAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22594107278424F900245BAC /* LaunchScreen.storyboard */; };
 		225941112784251500245BAC /* ZYButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 225941102784251500245BAC /* ZYButton.swift */; };
+		5A8B82B927CCD2A900D3595A /* UIButton+ZYExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A8B82B827CCD2A900D3595A /* UIButton+ZYExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		22594108278424F900245BAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2259410A278424F900245BAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		225941102784251500245BAC /* ZYButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZYButton.swift; sourceTree = "<group>"; };
+		5A8B82B827CCD2A900D3595A /* UIButton+ZYExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIButton+ZYExtension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				225940FC278424F700245BAC /* AppDelegate.swift */,
 				225940FE278424F700245BAC /* SceneDelegate.swift */,
 				22594100278424F700245BAC /* ViewController.swift */,
+				5A8B82B827CCD2A900D3595A /* UIButton+ZYExtension.swift */,
 				225941102784251500245BAC /* ZYButton.swift */,
 				22594102278424F700245BAC /* Main.storyboard */,
 				22594105278424F900245BAC /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 				225941112784251500245BAC /* ZYButton.swift in Sources */,
 				22594101278424F700245BAC /* ViewController.swift in Sources */,
 				225940FD278424F700245BAC /* AppDelegate.swift in Sources */,
+				5A8B82B927CCD2A900D3595A /* UIButton+ZYExtension.swift in Sources */,
 				225940FF278424F700245BAC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
